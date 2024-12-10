@@ -1,0 +1,4 @@
+reqrequests
+beautifulsoup4
+selenium
+pandas
